@@ -1,3 +1,10 @@
+=======
+Freshmen Programming Toolkit
+===
+
+[Professor Jeff Ely](http://legacy.lclark.edu/~jeff/)'s X11 wrapper for beginning programmers. Please
+
+
 # Base Instructions
 
 If you are setting this up in Linux and in the /FPT
@@ -496,4 +503,6 @@ zcom fname.c
   does the same thing (C++) but first preprocesses your
   source file to allow for doubles to be used
   as subscripts in arrays
+
+
 
