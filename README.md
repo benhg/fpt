@@ -1,5 +1,5 @@
 ===
-Freshmen Programming Toolkit
+Freshman's Programming Toolkit
 ===
 
 [Professor Jeff Ely](http://legacy.lclark.edu/~jeff/)'s X11 wrapper for beginning programmers. Please
