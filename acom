@@ -17,7 +17,7 @@ done
 
 #echo $clist
 
-cc  -I/FPT/Source -I/FPT/HeadersC /FPT/DotosC/*.o    $clist   -L/usr/X11R6/lib -lm -lX11 -lXext
+cc -I/usr/X11/include  -I/FPT/Source -I/FPT/HeadersC /FPT/DotosC/*.o    $clist   -L/usr/X11/lib -lm -lX11 -lXext
 
 
 
