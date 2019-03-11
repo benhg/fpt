@@ -1,4 +1,4 @@
-=======
+===
 Freshmen Programming Toolkit
 ===
 
@@ -227,6 +227,8 @@ Updated for Mac by W. Javins: Jan. 2011
 //////////////////////////////////////////////////////////////////
 These instructions were tested with OSX 10.4.11 Tiger, 10.5.4 
 Leopard, and 10.6.6 Snow Leopard running on an intel macbook pro.
+
+Also, works on various macbooks running OSX Mojave and High Sierra
 //////////////////////////////////////////////////////////////////
 
 
